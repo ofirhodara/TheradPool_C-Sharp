@@ -1,0 +1,26 @@
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.exe
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.deps.json
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.runtimeconfig.json
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.runtimeconfig.dev.json
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.dll
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.pdb
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.csprojAssemblyReference.cache
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.AssemblyInfoInputs.cache
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.AssemblyInfo.cs
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.csproj.CoreCompileInputs.cache
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.dll
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.pdb
+C:\Users\Ofir\Desktop\omega\C# BASIC\Thread_learning\Thread_basic\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.genruntimeconfig.cache
+C:\Users\Ofir\Desktop\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.exe
+C:\Users\Ofir\Desktop\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.deps.json
+C:\Users\Ofir\Desktop\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.runtimeconfig.json
+C:\Users\Ofir\Desktop\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.runtimeconfig.dev.json
+C:\Users\Ofir\Desktop\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.dll
+C:\Users\Ofir\Desktop\Thread_basic\bin\Debug\netcoreapp3.1\Thread_basic.pdb
+C:\Users\Ofir\Desktop\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.csprojAssemblyReference.cache
+C:\Users\Ofir\Desktop\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.AssemblyInfoInputs.cache
+C:\Users\Ofir\Desktop\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.AssemblyInfo.cs
+C:\Users\Ofir\Desktop\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.csproj.CoreCompileInputs.cache
+C:\Users\Ofir\Desktop\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.dll
+C:\Users\Ofir\Desktop\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.pdb
+C:\Users\Ofir\Desktop\Thread_basic\obj\Debug\netcoreapp3.1\Thread_basic.genruntimeconfig.cache
